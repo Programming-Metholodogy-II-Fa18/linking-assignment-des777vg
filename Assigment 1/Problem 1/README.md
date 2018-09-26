@@ -1,6 +1,6 @@
-Name- Desmond Johnson
+# Name - Desmond Johnson
 
-This contains the code for problem 1. Code that adds the ability to use a ui and the code that was use to test this will be pasted below.
+## This contains the code for problem 1. Code that adds the ability to use a ui and the code that was use to test this will be pasted below.
 
 // below code can be implemented into main function if you wanted to UI
 //ArbitraryQueue<string> example;
