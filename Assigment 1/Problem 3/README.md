@@ -60,14 +60,14 @@ This contains the code for problem 3. Code that adds the ability to use a ui and
 	//		break;
 	//	}
 	//}
-	example->Push(3);
-	example->Push(9);
-	example->Push(1);
-	example->Push(7);
-	example->Push(13);
-	example->InsertionSort();
-	example->pastPeek();
-	example->Peek();
-	example->Pop();
-	example->pastPeek();
-	example->Peek();
+	//example->Push(3);
+	//example->Push(9);
+	//example->Push(1);
+	//example->Push(7);
+	//example->Push(13);
+	//example->InsertionSort();
+	//example->pastPeek();
+	//example->Peek();
+	//example->Pop();
+	//example->pastPeek();
+	//example->Peek();
