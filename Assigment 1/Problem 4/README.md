@@ -1,6 +1,6 @@
-Name- Desmond Johnson
+# Name - Desmond Johnson
 
-This contains the code for problem 4. Code that adds the ability to use a ui and the code that was used to test this will be pasted below.
+## This contains the code for problem 4. Code that adds the ability to use a ui and the code that was used to test this will be pasted below.
 
 // below code can be implemented into main function if you wanted a UI
 /*int test2[3][4] = { {11,9,8,3}, {0,2,6,5}, {7,1,10,4} };
