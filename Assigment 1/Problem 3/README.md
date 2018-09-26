@@ -7,9 +7,9 @@ This contains the code for problem 3. Code that adds the ability to use a ui and
 	//string phrases;
 	//while (1) {
 	//	//1 adds, 2 deletes, and 3 displays
-	//	cout << "Press 1 to add an item to top, 2 to delete an item from the top, 5 to display the item(s) and 6 to peek, and 7 to insertion sort, and 8 to past peek" << endl;
+	//	cout << "Press 1 to add an item to top, 2 to delete an item from the top, 5 to display the item(s) and 6 to peek, and 7 	//to insertion sort, and 8 to past peek" << endl;
 	//	cin >> choice;
-	//	if (choice != 1 && choice != 3 && choice != 2 && choice != 4 && choice != 5 && choice != 6 && choice != 7 && choice != 8 && choice != 9) {
+	//	if (choice != 1 && choice != 3 && choice != 2 && choice != 4 && choice != 5 && choice != 6 && choice != 7 && choice != 8 	//&& choice != 9) {
 	//		cout << "Invalid Entry " << endl;
 	//		continue;
 	//	}
