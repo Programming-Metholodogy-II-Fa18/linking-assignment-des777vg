@@ -1,3 +1,3 @@
-Name- Desmond Johnson
+# Name - Desmond Johnson
 
-This contains the directory for all the problems
+## This contains the directory for all the problems
