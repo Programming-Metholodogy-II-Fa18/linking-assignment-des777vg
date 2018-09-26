@@ -1,3 +1,3 @@
-Name- Desmond Johnson
+# Name - Desmond Johnson
 
-This repository contains all assigments that will be submitted.
+## This repository contains all assigments that will be submitted.
