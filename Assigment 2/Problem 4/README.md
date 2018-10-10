@@ -2,11 +2,6 @@ Name - Desmond Johnson (RUID - 191001434)
 This contains the code for problem 4. The int main used to test this file will be shown at the bottom.
 
 
-Please have the following code at the top of the file (if not already present).
-// <iostream>
-// <cmath>
-// <string>
-
 using namespace std;
 //-----------------------
 
