@@ -5,11 +5,14 @@ This contains the code for problem 3. The int main used to test this file will b
 This directory includes two different versions of the code. A header version and a cpp version. The header version allows you to have the main function in a seperate file. If you choose to use the header version please add #include <Problem3.h> to the top off the code. If you choose to use the cpp code please put main function inside that file.
 
 
-Please have the following code at the top of the file (if not already present).
-""include<iostream>""
-""#include <cmath>""
-""#include <string>""
-""#include <time.h> ""
+Please have the following code at the top of the file (if not already present) and replace " with appropiate < or >.
+include "iostream"
+	
+#include "cmath"
+	
+#include "string"
+	
+#include "time.h"
 
 using namespace std;
 //-----------------------
