@@ -414,20 +414,20 @@ public:
 
 
 };
-int main() {// remove median, new lap, and midbreak comments
-	srand(time(NULL));
-
-	LinkedList* example = new LinkedList();
-	example->add(1);
-	example->add(7);
-	example->add(9);
-	example->add(9);
-	example->add(3);
-	example->add(6);
-	example->printList();
-	cout << endl;
-	cout << endl;
-	example->quicksort();
-	example->printList();
-	while (1) {}
-}
+//int main() {// remove median, new lap, and midbreak comments
+//	srand(time(NULL));
+//
+//	LinkedList* example = new LinkedList();
+//	example->add(1);
+//	example->add(7);
+//	example->add(9);
+//	example->add(9);
+//	example->add(3);
+//	example->add(6);
+//	example->printList();
+//	cout << endl;
+//	cout << endl;
+//	example->quicksort();
+//	example->printList();
+//	while (1) {}
+//}
