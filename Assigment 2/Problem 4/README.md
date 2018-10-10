@@ -3,9 +3,9 @@ This contains the code for problem 4. The int main used to test this file will b
 
 
 Please have the following code at the top of the file (if not already present).
-#include<iostream>
-#include <cmath>
-#include <string>
+//#include <iostream>
+//#include <cmath>
+//#include <string>
 
 using namespace std;
 //-----------------------
