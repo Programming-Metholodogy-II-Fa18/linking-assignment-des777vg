@@ -4,10 +4,6 @@ This contains the code for problem 1. The int main used to test this file will b
 Please note that int output[arraySize]; did not cause any compile issues using atom with a c++ compilewr, but it did in visula studio. If for some reason you experience an issue with this array, please ensure that arraySize is intialized the same way as shown in the example main function below. If the issue still persists, please set the size of output manually to the current arraySize.
 
 
-Please have the following code at the top of the file (if not already present).
-#include<iostream>
-#include <cmath>
-#include <string>
 
 using namespace std;
 //-----------------------
