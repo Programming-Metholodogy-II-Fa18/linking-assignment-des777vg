@@ -9,6 +9,7 @@ using namespace std;
 //-----------------------
 
 int main() {
+
 	int arraypass[5] = {32,  47, 7, 236, 229 };
 	int arr_size = sizeof(arraypass) / sizeof(arraypass[0]);;
 	Problem1(arraypass, arr_size);
