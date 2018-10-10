@@ -181,7 +181,7 @@ public:
 				head->value = end->value;
 				end->value = tmpmedian;
 			}
-			printList();
+			//printList();
 			cout << endl;
 		}
 		traverse = head;
@@ -382,7 +382,7 @@ public:
 	void quicksort()
 	{
 		Randomize();
-		printList();
+		//printList();
 		cout << endl;
 		int cnt2 = counter() - 1;
 		head = quickSortRecur(head, FindLastPri(head), cnt2);
