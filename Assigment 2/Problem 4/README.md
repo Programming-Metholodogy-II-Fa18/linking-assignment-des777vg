@@ -6,6 +6,7 @@ using namespace std;
 //-----------------------
 
 int main() {
+
 	int arraypass[5] = {  32, 62, 42, 71, 7 };
 	Problem4A(arraypass, 5);
 	while (1) {
