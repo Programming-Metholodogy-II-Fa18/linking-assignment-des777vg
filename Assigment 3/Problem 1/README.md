@@ -1,9 +1,10 @@
 Name - Desmond Johnson (RUID - 191001434)
+
 This contains the code for problem 1. The int main used to test this file will be commented out at the bottom of the cpp file. 
 
 Please note that c++ does not let you return arrays in the traditional manner. The function daryHeapsort returns a pointer to the start of the array. An example of how to use the pointer will be shown below.
 
-int *sort =example->daryHeapsort();
+	int *sort =example->daryHeapsort();
 	for (int i = 0; i < currentSize; ++i) {
 		cout << sort[i] << endl;
 	}
